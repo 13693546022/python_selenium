@@ -1,0 +1,7 @@
+kernel_commands:
+  - uname -a
+  - cat /proc/cmdline
+  - lsmod
+  - fdisk -l
+
+url: "telnet://127.0.0.1:20053"
